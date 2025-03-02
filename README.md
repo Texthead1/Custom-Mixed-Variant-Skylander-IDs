@@ -1,7 +1,7 @@
 # Custom Mixed Variant Skylander IDs
 Character IDs and Variant IDs for unintended Skylanders that can still be played (in at least one title in some "correct" manner) in unmodified games. A comprehensive list of IDs for regular, developer, and unreleased Skylanders can be found [here](https://github.com/Texthead1/Skylander-IDs).
 
-Each Variant ID is a 16 bit unsigned short, representing a bitfield of 6 different flags used to determine the figure in-game. More information in regards to how a Variant ID is composed can be found [here](https://github.com/NefariousTechSupport/Runes/blob/master/Docs/SkylanderFormat.md#sub-type). For simplicity sake, both IDs are shown as denary (base-10) integers.
+Each Variant ID is a 16-bit unsigned short, representing a bitfield of 6 different flags used to determine the figure in-game. More information in regard to how a Variant ID is composed can be found [here](https://github.com/NefariousTechSupport/Runes/blob/master/Docs/SkylanderFormat.md#sub-type). For simplicity's sake, both IDs are shown as denary (base-10) integers.
 
 This list does not include "theoretical" custom mixed variant Skylanders that don't show up as you'd expect in any mainline game (e.g. LightCore Jolly Bumble Blast), or any truncated reposes for Skylanders Giants figures (such as a 2013 repose alt deco Hot Dog showing up as a Molten Hot Dog in Giants and a Special Fire Bone Hot Dog in future games), but does contain mixed variants that include unreleased variants (such as Series 2 LightCore Flashwing).
 
@@ -76,4 +76,3 @@ Custom mixed variant Skylanders are created by abusing how the different games t
 * Eon's Elites of SSA Variants do not have a health bonus or the additional effects, but do retain the damage bonus
 * LightCore Eon's Elite Eruptor does not have the LightCore Blast
 * Series 1 Love Potion Pop Fizz can still summon in as the Mega Beast despite never being able to purchase the upgrade
-* LightCore Fizzy Frenzy Pop Fizz does not have the announcer say "LightCore" despite the blast still occuring with the Mega Beast
